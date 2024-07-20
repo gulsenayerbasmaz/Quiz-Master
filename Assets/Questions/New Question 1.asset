@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 533ebfeadb84d334182a71e4566c5c10, type: 3}
+  m_Name: New Question 1
+  m_EditorClassIdentifier: 
+  question: "Ayna ayna s\xF6yle bana benden(g\xFClsenadan) daha g\xFCzeli var m\u0131
+    bu d\xFCnyada ?"
+  answers:
+  - Yok
+  - Yok
+  - Yok
+  - Yok
+  correctAnsweIndex: 0
